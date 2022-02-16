@@ -1,0 +1,26 @@
+
+.container{
+          display: flex;
+          flex-wrap:      wrap;
+          justify-content:     center;
+          /* align-items: center; */
+          height: 500px;
+}
+.pics{
+  height: 200px;
+  width: 200px;
+  margin: 20px;
+}
+.pics:hover {
+   transform: scale(1.2);
+ }
+h2{
+  color: rgba(244,93,164,.78);
+  outline-color: black;
+  font-style: italic;
+}
+.flex-container{
+  display:flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}

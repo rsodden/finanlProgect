@@ -1,0 +1,20 @@
+h1{
+  text-align: center;
+  border-top: black;
+}
+.container-fluid{
+background-color: pink;
+}
+.dropdown-item a:hover {
+  background-color: #ddd;
+}
+.dropdown-menu:hover .dropdown-item {
+  display: block;
+}
+.logobrand{
+  height: 70px;
+  width:70px;
+}
+.nameofbrand{
+  align-items: center;
+}

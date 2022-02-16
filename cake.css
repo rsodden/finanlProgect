@@ -1,0 +1,22 @@
+.container{
+display: flex;
+flex-wrap:      wrap;
+flex-direction: row:
+/* justify-content:     center;
+align-items: center;
+height: 500px; */
+}
+/* .grid-container{
+  display:grid;
+  grid-template-columns: 100px 100px 100px 100px 100px 100px;
+  align-content: space-around;
+  grid-column-gap: 20px;
+} */
+h3{
+  color: rgba(244,93,164,.78);
+  outline-color: black;
+  font-style: italic;
+}
+.card{
+  margin:20px;
+}

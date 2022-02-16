@@ -1,0 +1,21 @@
+.grid-container{
+  display:grid;
+  grid-template-columns: 270px 270px 270px 270px;
+  align-content: space-around;
+  grid-column-gap: 100px;
+  /* display: flex;
+  flex-wrap:      wrap;
+  justify-content:     center; */
+ }
+.card-img-top{
+  height:300px;
+  width: 270px;
+}
+.card-title{
+  font-size:1.4em;
+}
+h2{
+  color: rgba(244,93,164,.78);
+  outline-color: black;
+  font-style: italic;
+}
